@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : KARMANN
+- prénom : ORIANE
+- URL Netlify : https://coruscating-halva-34c777.netlify.app/
 
 # Travail
 
